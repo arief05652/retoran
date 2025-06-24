@@ -1,0 +1,7 @@
+{
+  "name": "retoran",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
